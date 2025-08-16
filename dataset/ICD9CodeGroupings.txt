@@ -1,0 +1,21 @@
+🔹 ICD-9 Code Groupings (Broad Categories)
+Code Range / Prefix	Category
+001–139	Infectious & Parasitic Diseases (e.g., tuberculosis, sepsis)
+140–239	Neoplasms (Cancers & Tumors)
+240–279	Endocrine, Nutritional & Metabolic Diseases (includes Diabetes = 250 codes)
+280–289	Blood & Blood-Forming Organs (e.g., anemia)
+290–319	Mental Disorders (e.g., depression, schizophrenia)
+320–389	Nervous System & Sense Organs (e.g., stroke, epilepsy)
+390–459	Circulatory System (e.g., hypertension, heart disease, stroke)
+460–519	Respiratory System (e.g., pneumonia, COPD, asthma)
+520–579	Digestive System (e.g., ulcers, liver disease)
+580–629	Genitourinary System (e.g., kidney failure, urinary infections)
+630–679	Pregnancy, Childbirth & Postpartum
+680–709	Skin & Subcutaneous Tissue
+710–739	Musculoskeletal System (e.g., arthritis, fractures)
+740–759	Congenital Anomalies
+760–779	Perinatal Conditions
+780–799	Symptoms, Signs, & Ill-Defined Conditions (e.g., fever, syncope)
+800–999	Injury & Poisoning
+E*** (E-codes)	External Causes of Injury (accidents, poisoning)
+V*** (V-codes)	Supplementary Factors (rehab, history of disease, follow-up care)
